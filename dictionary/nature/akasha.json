@@ -1,0 +1,114 @@
+{
+  "word": "आकाश",
+  "transliteration": "akasha",
+  "slug": "akasha",
+  "meaning": "sky, ether, space",
+  "meaningExtended": "The vast expanse above the earth; in Hindu philosophy, one of the five fundamental elements (pancha-mahabhutas). It represents boundless space and the medium through which sound travels.",
+  "gender": "neuter",
+  "wordType": "noun",
+  "category": "nature",
+  "imageQuery": "sky space",
+  "sentences": [
+    {
+      "id": 1,
+      "devanagari": "आकाश नीला है।",
+      "transliteration": "akasha nīlā hai.",
+      "english": "The sky is blue.",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "statement"
+    },
+    {
+      "id": 2,
+      "devanagari": "आकाशे तारे दिखते थे।",
+      "transliteration": "akāśe tāre dikhte the.",
+      "english": "Stars were visible in the sky.",
+      "vachan": "bahu",
+      "linga": "napumsaka",
+      "kaal": "bhoota",
+      "type": "statement"
+    },
+    {
+      "id": 3,
+      "devanagari": "आकाशं सदा अनन्त रहिष्यति।",
+      "transliteration": "ākāśaṃ sadā ananta rahiṣyati.",
+      "english": "The sky will remain eternal forever.",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "bhavishy",
+      "type": "statement"
+    },
+    {
+      "id": 4,
+      "devanagari": "आकाशे बादल कहाँ गए?",
+      "transliteration": "ākāśe bādal kahāṃ gaye?",
+      "english": "Where did the clouds in the sky go?",
+      "vachan": "bahu",
+      "linga": "napumsaka",
+      "kaal": "bhoota",
+      "type": "question"
+    },
+    {
+      "id": 5,
+      "devanagari": "क्या आकाश सचमुच अनन्त है?",
+      "transliteration": "kyā ākāśa sacmuch anant hai?",
+      "english": "Is the sky truly infinite?",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "question"
+    },
+    {
+      "id": 6,
+      "devanagari": "अरे, आकाश कितना सुन्दर दिख रहा है!",
+      "transliteration": "are, ākāśa kitnā sundar dikh rahā hai!",
+      "english": "Oh, how beautiful the sky looks!",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "conversation"
+    },
+    {
+      "id": 7,
+      "devanagari": "हाँ, इस आकाशे चाँद और तारे दोनों हैं।",
+      "transliteration": "hāṃ, is ākāśe chānd aur tāre donau haiṃ.",
+      "english": "Yes, both the moon and stars are in this sky.",
+      "vachan": "dvi",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "conversation"
+    },
+    {
+      "id": 8,
+      "devanagari": "आकाशौ एकत्र मिलितौ स्तः।",
+      "transliteration": "ākāśau ekattra militau stah.",
+      "english": "The two skies met together.",
+      "vachan": "dvi",
+      "linga": "napumsaka",
+      "kaal": "bhoota",
+      "type": "statement"
+    },
+    {
+      "id": 9,
+      "devanagari": "आकाशाः सर्वत्र विस्तृताः सन्ति।",
+      "transliteration": "ākāśāh sarvatra vistṛtāh santi.",
+      "english": "The skies extend everywhere.",
+      "vachan": "bahu",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "statement"
+    },
+    {
+      "id": 10,
+      "devanagari": "आकाशः सर्वस्य साक्षी, सर्वस्य गवाह अखिल ब्रह्मांडस्य।",
+      "transliteration": "ākāśaḥ sarvasya sākṣī, sarvasya gavāh akhil brahmāṇḍasya.",
+      "english": "The sky is the witness of all, the eternal testament to the entire cosmos.",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "statement"
+    }
+  ],
+  "generatedAt": "2026-07-16T14:30:47.734Z"
+}
