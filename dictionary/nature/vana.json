@@ -1,0 +1,114 @@
+{
+  "word": "वन",
+  "transliteration": "vana",
+  "slug": "vana",
+  "meaning": "forest",
+  "meaningExtended": "A large area of land covered with trees and vegetation; a wilderness region inhabited by wild animals and plants.",
+  "gender": "neuter",
+  "wordType": "noun",
+  "category": "nature",
+  "imageQuery": "forest trees",
+  "sentences": [
+    {
+      "id": 1,
+      "devanagari": "वनम् सुन्दरम् अस्ति।",
+      "transliteration": "vanam sundaram asti.",
+      "english": "The forest is beautiful.",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "statement"
+    },
+    {
+      "id": 2,
+      "devanagari": "वने वृक्षाः महान्तः आसन्।",
+      "transliteration": "vane vṛkṣāḥ mahāntaḥ āsan.",
+      "english": "In the forest, there were great trees.",
+      "vachan": "bahu",
+      "linga": "pullinga",
+      "kaal": "bhoota",
+      "type": "statement"
+    },
+    {
+      "id": 3,
+      "devanagari": "वनं गमिष्यामि कालेन।",
+      "transliteration": "vanaṃ gamiṣyāmi kālena.",
+      "english": "I will go to the forest in time.",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "bhavishy",
+      "type": "statement"
+    },
+    {
+      "id": 4,
+      "devanagari": "किं वनस्य गहनाः मार्गाः सन्ति?",
+      "transliteration": "kiṃ vanasya gahanāḥ mārgāḥ santi?",
+      "english": "Are the paths of the forest deep and dense?",
+      "vachan": "bahu",
+      "linga": "pullinga",
+      "kaal": "vartaman",
+      "type": "question"
+    },
+    {
+      "id": 5,
+      "devanagari": "कस्मिन् वने सिंहः निवसति?",
+      "transliteration": "kasmin vane siṃhaḥ nivasati?",
+      "english": "In which forest does the lion dwell?",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "question"
+    },
+    {
+      "id": 6,
+      "devanagari": "भ्रातः, वनस्य सौन्दर्यं पश्य!",
+      "transliteration": "bhrātaḥ, vanasya saundarya paśya!",
+      "english": "Brother, behold the beauty of the forest!",
+      "vachan": "eka",
+      "linga": "pullinga",
+      "kaal": "vartaman",
+      "type": "conversation"
+    },
+    {
+      "id": 7,
+      "devanagari": "आम्, वनं रमणीयं सत्यम्।",
+      "transliteration": "ām, vanaṃ ramaṇīya satyam.",
+      "english": "Yes, indeed the forest is delightful.",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "conversation"
+    },
+    {
+      "id": 8,
+      "devanagari": "वनौ वृक्षौ परस्परं प्रेमणा बध्नीतः।",
+      "transliteration": "vanau vṛkṣau paraspara premaṇā badhnītaḥ.",
+      "english": "The two trees in the forest are bound together by mutual affection.",
+      "vachan": "dvi",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "statement"
+    },
+    {
+      "id": 9,
+      "devanagari": "वनानि पृथिव्यां जीवनस्य आश्रयणि सन्ति।",
+      "transliteration": "vanāni pṛthivyāṃ jīvanasya āśrayaṇi santi.",
+      "english": "Forests on earth are the refuge of life.",
+      "vachan": "bahu",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "statement"
+    },
+    {
+      "id": 10,
+      "devanagari": "वनं शान्तेः मन्दिरं, ज्ञानस्य आलयः।",
+      "transliteration": "vanaṃ śānteḥ mandiram, jñānasya ālayaḥ.",
+      "english": "The forest is a temple of peace, an abode of wisdom.",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "statement"
+    }
+  ],
+  "generatedAt": "2026-07-16T16:35:29.165Z"
+}
