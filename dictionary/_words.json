@@ -37,5 +37,11 @@
     "word": "आकाश",
     "meaning": "sky, ether, space",
     "transliteration": "akasha"
+  },
+  "dina": {
+    "category": "time",
+    "word": "दिन",
+    "meaning": "day",
+    "transliteration": "dina"
   }
 }
