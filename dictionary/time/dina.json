@@ -1,0 +1,114 @@
+{
+  "word": "दिन",
+  "transliteration": "dina",
+  "slug": "dina",
+  "meaning": "day",
+  "meaningExtended": "A period of twenty-four hours, or the daylight portion of a day, from sunrise to sunset. The primary unit of time in daily life.",
+  "gender": "neuter",
+  "wordType": "noun",
+  "category": "time",
+  "imageQuery": "day sunlight",
+  "sentences": [
+    {
+      "id": 1,
+      "devanagari": "आज दिनं सुन्दरं अस्ति।",
+      "transliteration": "āja dinaṁ sundaram asti.",
+      "english": "Today the day is beautiful.",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "statement"
+    },
+    {
+      "id": 2,
+      "devanagari": "कल दिनं मेघावृतं आसीत्।",
+      "transliteration": "kala dinaṁ meghāvṛtaṁ āsīt.",
+      "english": "Yesterday the day was cloudy.",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "bhoota",
+      "type": "statement"
+    },
+    {
+      "id": 3,
+      "devanagari": "श्वः दिनं शीतलं भविष्यति।",
+      "transliteration": "śvaḥ dinaṁ śītalaṁ bhaviṣyati.",
+      "english": "Tomorrow the day will be cool.",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "bhavishy",
+      "type": "statement"
+    },
+    {
+      "id": 4,
+      "devanagari": "अयं दिनः कदा समाप्तः भविष्यति?",
+      "transliteration": "ayaṁ dinaḥ kadā samāptaḥ bhaviṣyati?",
+      "english": "When will this day end?",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "bhavishy",
+      "type": "question"
+    },
+    {
+      "id": 5,
+      "devanagari": "किं त्वं इस दिने कार्यं कृतवान्?",
+      "transliteration": "kiṁ tvam isa dine kāryaṁ kṛtavān?",
+      "english": "Did you do work on this day?",
+      "vachan": "eka",
+      "linga": "pullinga",
+      "kaal": "bhoota",
+      "type": "question"
+    },
+    {
+      "id": 6,
+      "devanagari": "भोः, अयं दिनः अतीव दीर्घः अभवत्।",
+      "transliteration": "bhoḥ, ayaṁ dinaḥ atīva dīrghaḥ abhavat.",
+      "english": "Oh, this day was extremely long.",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "bhoota",
+      "type": "conversation"
+    },
+    {
+      "id": 7,
+      "devanagari": "सत्यमेव, दिनं शीघ्रं व्यतीयते।",
+      "transliteration": "satyamev, dinaṁ śīghraṁ vyatīyate.",
+      "english": "Indeed, the day passes quickly.",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "conversation"
+    },
+    {
+      "id": 8,
+      "devanagari": "इमौ दिनौ उत्सवप्रधानौ आस्तां।",
+      "transliteration": "imau dinau utsavapradhānau āstāṁ.",
+      "english": "These two days were festival-focused.",
+      "vachan": "dvi",
+      "linga": "napumsaka",
+      "kaal": "bhoota",
+      "type": "statement"
+    },
+    {
+      "id": 9,
+      "devanagari": "तानि दिनानि विस्मरणीयानि न भविष्यन्ति।",
+      "transliteration": "tāni dināni vismaraṇīyāni na bhaviṣyanti.",
+      "english": "Those days will not be forgettable.",
+      "vachan": "bahu",
+      "linga": "napumsaka",
+      "kaal": "bhavishy",
+      "type": "statement"
+    },
+    {
+      "id": 10,
+      "devanagari": "दिनमेव जीवनस्य इकाई, यस्मिन् क्षणाः रत्नवत् शोभन्ते।",
+      "transliteration": "dinamev jīvanasya ikāī, yasmin kṣaṇāḥ ratnavat śobhante.",
+      "english": "The day itself is life's unit, wherein moments shine like gems.",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "statement"
+    }
+  ],
+  "generatedAt": "2026-07-16T16:21:29.567Z"
+}
