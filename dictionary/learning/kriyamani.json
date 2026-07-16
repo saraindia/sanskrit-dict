@@ -1,0 +1,114 @@
+{
+  "word": "क्रियमाणानि",
+  "transliteration": "kriyamāṇāni",
+  "slug": "kriyamani",
+  "meaning": "being done, performed",
+  "meaningExtended": "Plural neuter present passive participle of the verb kṛ (to do/make), indicating actions that are being performed or are in the process of being done.",
+  "gender": "neuter",
+  "wordType": "verb",
+  "category": "learning",
+  "imageQuery": "action being performed",
+  "sentences": [
+    {
+      "id": 1,
+      "devanagari": "वेदे क्रियमाणानि कर्माणि सर्वदा फलं दायक भवन्ति।",
+      "transliteration": "vede kriyamāṇāni karmāṇi sarvadā phalaṃ dāyaka bhavanti.",
+      "english": "The actions being performed in the Vedas always yield fruits.",
+      "vachan": "bahu",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "statement"
+    },
+    {
+      "id": 2,
+      "devanagari": "मन्दिरे क्रियमाणानि पूजाविधीनि देवताभ्यः प्रिय आसन्।",
+      "transliteration": "mandire kriyamāṇāni pūjāvidhīni devatābhyaḥ priya āsan.",
+      "english": "The worship rituals being performed in the temple were pleasing to the deities.",
+      "vachan": "bahu",
+      "linga": "napumsaka",
+      "kaal": "bhoota",
+      "type": "statement"
+    },
+    {
+      "id": 3,
+      "devanagari": "भविष्यति क्रियमाणानि तपसानि मुक्तिं नेष्यन्ति।",
+      "transliteration": "bhaviṣyati kriyamāṇāni tapasāni muktiṃ neṣyanti.",
+      "english": "The austerities being performed in the future will lead to liberation.",
+      "vachan": "bahu",
+      "linga": "napumsaka",
+      "kaal": "bhavishy",
+      "type": "statement"
+    },
+    {
+      "id": 4,
+      "devanagari": "कथं क्रियमाणानि कार्याणि सफलानि भवितुं शक्यन्ते?",
+      "transliteration": "kathaṃ kriyamāṇāni kāryāṇi saphalaāni bhavituṃ śakyante?",
+      "english": "How can the tasks being performed become successful?",
+      "vachan": "bahu",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "question"
+    },
+    {
+      "id": 5,
+      "devanagari": "कस्मै क्रियमाणानि यज्ञानि समर्पितानि भवन्ति?",
+      "transliteration": "kasmai kriyamāṇāni yajñāni samarpitāni bhavanti?",
+      "english": "To whom are the sacrifices being performed dedicated?",
+      "vachan": "bahu",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "question"
+    },
+    {
+      "id": 6,
+      "devanagari": "अहं पश्यामि क्रियमाणानि कर्माणि सर्वत्र जगति।",
+      "transliteration": "ahaṃ paśyāmi kriyamāṇāni karmāṇi sarvatra jagati.",
+      "english": "I see the actions being performed everywhere in the world.",
+      "vachan": "bahu",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "conversation"
+    },
+    {
+      "id": 7,
+      "devanagari": "त्वं कथयस्व कि क्रियमाणानि कार्याणि तव सुखकरानि सन्ति?",
+      "transliteration": "tvaṃ kathayasva ki kriyamāṇāni kāryāṇi tava sukhakarāni santi?",
+      "english": "Tell me, are the works being done by you bringing you happiness?",
+      "vachan": "bahu",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "conversation"
+    },
+    {
+      "id": 8,
+      "devanagari": "द्वे क्रियमाणे कार्ये पारस्परिकं सहायतां प्रदातः।",
+      "transliteration": "dve kriyamāṇe kārye pārasparikṃ sahāyatāṃ pradātaḥ.",
+      "english": "The two works being done provide mutual assistance to each other.",
+      "vachan": "dvi",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "statement"
+    },
+    {
+      "id": 9,
+      "devanagari": "विविधानि क्रियमाणानि कार्याणि मनुष्याणां जीवने उन्नति साधयन्ति।",
+      "transliteration": "vividhāni kriyamāṇāni kāryāṇi manuṣyāṇāṃ jīvane unnati sādhayanti.",
+      "english": "The various works being performed accomplish progress in human life.",
+      "vachan": "bahu",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "statement"
+    },
+    {
+      "id": 10,
+      "devanagari": "यानि क्रियमाणानि कार्याणि मनोभावसंपन्नानि भवन्ति, तानि एव शाश्वतफलं प्रयच्छन्ति।",
+      "transliteration": "yāni kriyamāṇāni kāryāṇi manobhāvasaṃpannāni bhavanti, tāni eva śāśvataphalaṃ prayacchanti.",
+      "english": "Those works being done with pure intention alone grant eternal fruit.",
+      "vachan": "bahu",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "poetic/philosophical"
+    }
+  ],
+  "generatedAt": "2026-07-16T16:49:32.629Z"
+}
