@@ -1,0 +1,114 @@
+{
+  "word": "अतिरुच्",
+  "transliteration": "atiruc",
+  "slug": "atiruc",
+  "meaning": "to shine excessively",
+  "meaningExtended": "A verb meaning to shine brightly or excessively, to outshine, or to be excessively pleasing or attractive. It is formed from the prefix 'ati' (excessive, beyond) combined with the root 'ruc' (to shine, to please).",
+  "gender": "indeclinable",
+  "wordType": "verb",
+  "category": "philosophy",
+  "imageQuery": "shining light brightness",
+  "sentences": [
+    {
+      "id": 1,
+      "devanagari": "सूर्यः सर्वेषु तारेषु अतिरोचते।",
+      "transliteration": "sūryaḥ sarveṣu tāreṣu atirocate.",
+      "english": "The sun shines excessively among all the stars.",
+      "vachan": "eka",
+      "linga": "pullinga",
+      "kaal": "vartaman",
+      "type": "statement"
+    },
+    {
+      "id": 2,
+      "devanagari": "तस्य गुणा अतिरोचन्ते स्म।",
+      "transliteration": "tasya guṇā atirocante sma.",
+      "english": "His virtues shone excessively in the past.",
+      "vachan": "bahu",
+      "linga": "striling",
+      "kaal": "bhoota",
+      "type": "statement"
+    },
+    {
+      "id": 3,
+      "devanagari": "यज्ञस्य तेजः अतिरोचिष्यते।",
+      "transliteration": "yajñasya tejaḥ atirocisyate.",
+      "english": "The splendor of the sacrifice will shine excessively.",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "bhavishy",
+      "type": "statement"
+    },
+    {
+      "id": 4,
+      "devanagari": "कিं न तव बुद्धिः सर्वेषु अतिरोचते?",
+      "transliteration": "kiṁ na tava buddhiḥ sarveṣu atirocate?",
+      "english": "Does not your intellect shine excessively among all?",
+      "vachan": "eka",
+      "linga": "striling",
+      "kaal": "vartaman",
+      "type": "question"
+    },
+    {
+      "id": 5,
+      "devanagari": "किमर्थं भगवतः रूपं अतिरोचते?",
+      "transliteration": "kimarthaṁ bhagavataḥ rūpaṁ atirocate?",
+      "english": "For what reason does the Lord's form shine so excessively?",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "question"
+    },
+    {
+      "id": 6,
+      "devanagari": "भो दोस्त! तव कीर्तिः तु सर्वत्र अतिरोचते।",
+      "transliteration": "bho dost! tava kīrtiḥ tu sarvatra atirocate.",
+      "english": "O friend! Your fame indeed shines excessively everywhere.",
+      "vachan": "eka",
+      "linga": "striling",
+      "kaal": "vartaman",
+      "type": "conversation"
+    },
+    {
+      "id": 7,
+      "devanagari": "आचार्य! तेन ज्ञानं न अतिरोचते इति।",
+      "transliteration": "ācārya! tena jñānaṁ na atirocate iti.",
+      "english": "Teacher! Knowledge does not shine excessively through him, so it is said.",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "conversation"
+    },
+    {
+      "id": 8,
+      "devanagari": "तौ कवीं सर्वैः अतिरोचतः।",
+      "transliteration": "tau kavīṁ sarvaiḥ atirocataḥ.",
+      "english": "Both of them outshine the poets among all.",
+      "vachan": "dvi",
+      "linga": "pullinga",
+      "kaal": "vartaman",
+      "type": "statement"
+    },
+    {
+      "id": 9,
+      "devanagari": "ते सर्वे नक्षत्रवत् अतिरोचन्ति।",
+      "transliteration": "te sarve naksatravaṭ atirocanti.",
+      "english": "All of them shine excessively like stars.",
+      "vachan": "bahu",
+      "linga": "pullinga",
+      "kaal": "vartaman",
+      "type": "statement"
+    },
+    {
+      "id": 10,
+      "devanagari": "यत्र सत्यं अतिरोचते, तत्र ब्रह्म विद्यते।",
+      "transliteration": "yatra satyaṁ atirocate, tatra brahma vidyate.",
+      "english": "Where truth shines excessively, there Brahman is found.",
+      "vachan": "eka",
+      "linga": "napumsaka",
+      "kaal": "vartaman",
+      "type": "statement"
+    }
+  ],
+  "generatedAt": "2026-07-16T17:22:02.568Z"
+}
