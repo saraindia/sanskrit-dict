@@ -43,5 +43,11 @@
     "word": "दिन",
     "meaning": "day",
     "transliteration": "dina"
+  },
+  "vana": {
+    "category": "nature",
+    "word": "वन",
+    "meaning": "forest",
+    "transliteration": "vana"
   }
 }
