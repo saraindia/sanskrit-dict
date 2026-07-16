@@ -1,0 +1,114 @@
+{
+  "word": "अटवि",
+  "transliteration": "atavi",
+  "slug": "atavi",
+  "meaning": "forest, woodland",
+  "meaningExtended": "A dense forest or woodland area, particularly one that is wild, impenetrable, or remote. Often used in classical Sanskrit literature to denote wilderness.",
+  "gender": "feminine",
+  "wordType": "noun",
+  "category": "nature",
+  "imageQuery": "dense forest woodland",
+  "sentences": [
+    {
+      "id": 1,
+      "devanagari": "अटवी वन्यपशुभिः पूर्णा अस्ति।",
+      "transliteration": "atavī vanyapaśubhiḥ pūrṇā asti.",
+      "english": "The forest is filled with wild animals.",
+      "vachan": "eka",
+      "linga": "striling",
+      "kaal": "vartaman",
+      "type": "statement"
+    },
+    {
+      "id": 2,
+      "devanagari": "राजा अटव्या भयात् निष्क्रमति स्म।",
+      "transliteration": "rājā atavy ā bhayāt niṣkramati sma.",
+      "english": "The king was fleeing from the forest in fear.",
+      "vachan": "eka",
+      "linga": "pullinga",
+      "kaal": "bhoota",
+      "type": "statement"
+    },
+    {
+      "id": 3,
+      "devanagari": "मुनिः अटव्यां तपः करिष्यति।",
+      "transliteration": "muniḥ atavy ā̐ tapaḥ kariṣyati.",
+      "english": "The sage will perform austerities in the forest.",
+      "vachan": "eka",
+      "linga": "pullinga",
+      "kaal": "bhavishy",
+      "type": "statement"
+    },
+    {
+      "id": 4,
+      "devanagari": "किं त्वं अटव्यां गच्छितुम् इच्छसि?",
+      "transliteration": "kiṃ tvaṃ atavy ā̐ gacchitum icchasi?",
+      "english": "Do you wish to go into the forest?",
+      "vachan": "eka",
+      "linga": "pullinga",
+      "kaal": "vartaman",
+      "type": "question"
+    },
+    {
+      "id": 5,
+      "devanagari": "अटवी कस्य सीमायां स्थिता?",
+      "transliteration": "atavī kasya sīmāyā̐ sthitā?",
+      "english": "Within whose territory does the forest lie?",
+      "vachan": "eka",
+      "linga": "striling",
+      "kaal": "vartaman",
+      "type": "question"
+    },
+    {
+      "id": 6,
+      "devanagari": "भो! अटव्या मार्गः दुर्गमः इति कथयन्ति।",
+      "transliteration": "bho! atavy ā mārg aḥ durgamaḥ iti kathayanti.",
+      "english": "Hey! They say the path through the forest is impassable.",
+      "vachan": "bahu",
+      "linga": "pullinga",
+      "kaal": "vartaman",
+      "type": "conversation"
+    },
+    {
+      "id": 7,
+      "devanagari": "वयं अटव्यां भटान् न दृष्टवन्तः।",
+      "transliteration": "vayaṃ atavy ā̐ bhaṭān na dṛṣṭavantaḥ.",
+      "english": "We did not see the soldiers in the forest.",
+      "vachan": "bahu",
+      "linga": "pullinga",
+      "kaal": "bhoota",
+      "type": "conversation"
+    },
+    {
+      "id": 8,
+      "devanagari": "तौ अटव्यां वृक्षौ समीपे आगच्छताम्।",
+      "transliteration": "tau atavy ā̐ vṛkṣau samīpe āgacchatām.",
+      "english": "The two of them came near the trees in the forest.",
+      "vachan": "dvi",
+      "linga": "pullinga",
+      "kaal": "bhoota",
+      "type": "statement"
+    },
+    {
+      "id": 9,
+      "devanagari": "अटवयः सर्वत्र गहनाः सन्ति।",
+      "transliteration": "atavayaḥ sarvatra gahanāḥ santi.",
+      "english": "Forests everywhere are dense and impenetrable.",
+      "vachan": "bahu",
+      "linga": "striling",
+      "kaal": "vartaman",
+      "type": "statement"
+    },
+    {
+      "id": 10,
+      "devanagari": "अटवी प्रकृतेः रत्नं, यत्र जीवनं नवजन्मते।",
+      "transliteration": "atavī prakṛteḥ ratnaṃ, yatra jīvanaṃ navajanmate.",
+      "english": "The forest is nature's jewel, where life is continually reborn.",
+      "vachan": "eka",
+      "linga": "striling",
+      "kaal": "vartaman",
+      "type": "statement"
+    }
+  ],
+  "generatedAt": "2026-07-16T17:18:56.118Z"
+}
